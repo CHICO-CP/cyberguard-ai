@@ -58,7 +58,9 @@ graph TB
 Prerequisites
 
 · Python 3.9 or higher
+
 · Telegram Bot Token from @BotFather
+
 · pip (Python package manager)
 
 Step 1: Clone and Setup
@@ -96,7 +98,9 @@ python cyberguard_bot.py
 Getting Started
 
 1. Search for your bot on Telegram
+
 2. Send /start to see available commands
+
 3. Use any command below to enhance your security
 
 Available Commands
@@ -150,8 +154,11 @@ Security Headers Checked
 Password Strength Algorithm
 
 · Length scoring (8-16+ characters)
+
 · Character variety (upper, lower, digits, symbols)
+
 · Pattern detection (repetition, sequences)
+
 · Entropy calculation (bit strength analysis)
 
 📊 Sample Outputs
@@ -204,15 +211,21 @@ Breach Check
 Data Protection
 
 · No data storage - All operations are ephemeral
+
 · End-to-end encryption for sensitive data
+
 · Local processing - No external data transmission
+
 · Session management with automatic cleanup
 
 Privacy Assurance
 
 · No logs kept of user interactions
+
 · Encrypted communications with Telegram
+
 · Minimal data collection - only necessary information
+
 · Transparent operations - users see all processes
 
 🛡️ Ethical Usage
@@ -220,15 +233,22 @@ Privacy Assurance
 ✅ Permitted Usage
 
 · Personal security enhancement
+
 · Authorized penetration testing
+
 · Educational and research purposes
+
 · Security awareness training
 
 ❌ Prohibited Usage
 
+
 · Illegal hacking activities
+
 · Unauthorized system testing
+
 · Malicious attacks
+
 · Any unlawful purposes
 
 Legal Disclaimer
