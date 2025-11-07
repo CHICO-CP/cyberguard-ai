@@ -146,9 +146,13 @@ def encrypt_message(self, text, key=None):
 Security Headers Checked
 
 · Content-Security-Policy
+
 · X-Frame-Options
+
 · X-Content-Type-Options
+
 · Strict-Transport-Security
+
 · X-XSS-Protection
 
 Password Strength Algorithm
@@ -262,25 +266,33 @@ Common Issues
 Bot not responding:
 
 · Verify bot token is correct
+
 · Check internet connection
+
 · Ensure bot is not blocked
 
 Encryption/decryption errors:
 
 · Verify key is correct and complete
+
 · Check for special characters in text
+
 · Ensure proper base64 encoding
 
 API timeouts:
 
 · Check rate limits on external APIs
+
 · Verify network connectivity
+
 · Retry after few minutes
 
 Performance Tips
 
 · Use stable internet connection
+
 · Avoid very large texts for encryption
+
 · Close other bandwidth-intensive applications
 
 🤝 Contributing
@@ -321,17 +333,25 @@ pip install -r requirements.txt
 Planned Features
 
 · Multi-language support (Spanish, French, German)
+
 · Advanced threat intelligence integration
+
 · PDF encryption/decryption capabilities
+
 · Secure file sharing with expiration
+
 · Blockchain-based verification
+
 · AI-powered threat detection
 
 Integration Plans
 
 · Discord bot version
+
 · Web dashboard interface
+
 · Mobile app companion
+
 · API for developers
 
 👨‍💻 Developer
@@ -339,6 +359,7 @@ Integration Plans
 Ghost Developer
 
 · GitHub: @CHICO-CP
+
 · Telegram: @CodeBreakers
 
 📄 License
@@ -348,8 +369,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🙏 Acknowledgments
 
 · Telegram for their robust Bot API
+
 · Cryptography developers for security libraries
+
 · Have I Been Pwned for breach data
+
 · Security community for continuous improvements
 
 📞 Support
@@ -357,13 +381,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Documentation
 
 · Full Command Reference
+
 · Troubleshooting Guide
+
 · Security Best Practices
 
 Community
 
 · Telegram Channel
+
 · GitHub Discussions
+
 · Issue Tracker
 
 Professional Support
